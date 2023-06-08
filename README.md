@@ -20,6 +20,10 @@ The password generator page includes
 &#x2022; Upon completing all prompts a password is generated matching selected criteria in prompts
 &#x2022; This password is displayed in an alert
 
+Additional changes
+&#x2022; Colors on the page have been changed to be a darker theme to be easier on the eyes
+&#x2022; Changed wording around the page to make it more understandable
+
 This was built using HTML, Javascript and love.
 
 <hr>
