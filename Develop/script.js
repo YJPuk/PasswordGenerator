@@ -77,7 +77,6 @@ function generatePassword() {
     return;
   }
   
-  //
   var randomPassword = ""
 
   //Additional to ensure the passwordLength is an integer not a string
