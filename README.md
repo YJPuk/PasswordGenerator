@@ -1,9 +1,17 @@
 # 03 JavaScript: Password Generator
 
 
-# Deployed link: 
+# Deployed link: https://yjpuk.github.io/PasswordGenerator/Develop/index.html
 
-Screenshot of page: 
+Screenshots of page: 
+https://github.com/YJPuk/PasswordGenerator/blob/main/Screenshots/Screenshot%20Main.png
+https://github.com/YJPuk/PasswordGenerator/blob/main/Screenshots/Screenshot%20Prompts.png
+https://github.com/YJPuk/PasswordGenerator/blob/main/Screenshots/Screenshot%20Prompts%202.png
+https://github.com/YJPuk/PasswordGenerator/blob/main/Screenshots/Screenshot%20Prompts%203.png
+https://github.com/YJPuk/PasswordGenerator/blob/main/Screenshots/Screenshot%20Prompts%204.png
+https://github.com/YJPuk/PasswordGenerator/blob/main/Screenshots/Screenshot%20Prompts%205.png
+https://github.com/YJPuk/PasswordGenerator/blob/main/Screenshots/Screenshot%20Result.png
+
 
 <hr>
 
