@@ -20,17 +20,17 @@ Description
 As an employee I'm trying to create a password generator so I can protect sensitive data. This is a simple solution. I modified the starter code to ensure that it includes the features listed below. These features match the Acceptance Criteria listed in the task below. 
 
 The password generator page includes
-&#x2022; An existing page where the starter code was modified
-&#x2022; Clicking the button generates a password
-&#x2022; You can select criteria for the password through prompts
-&#x2022; Ability to make a password length of at least 8 characters and no more than 128 characters
-&#x2022; Criteria prompts for password include confirmations whether or not to include lowercase, uppercase, numeric, and/or special characters I chose to with confirm instead of window.prompts as it would be easier for the user to simply click to select than keying in Y/N
-&#x2022; Upon completing all prompts a password is generated matching selected criteria in prompts
-&#x2022; This password is displayed in an alert
+<h4>&#x2022; An existing page where the starter code was modified</h4>
+<h4>&#x2022; Clicking the button generates a password</h4>
+<h4>&#x2022; You can select criteria for the password through prompts</h4>
+<h4>&#x2022; Ability to make a password length of at least 8 characters and no more than 128 characters</h4>
+<h4>&#x2022; Criteria prompts for password include confirmations whether or not to include lowercase, uppercase, numeric, and/or special characters I chose to with confirm instead of window.prompts as it would be easier for the user to simply click to select than keying in Y/N</h4>
+<h4>&#x2022; Upon completing all prompts a password is generated matching selected criteria in prompts</h4>
+<h4>&#x2022; This password is displayed in an alert</h4>
 
 Additional changes
-&#x2022; Colors on the page have been changed to be a darker theme to be easier on the eyes
-&#x2022; Changed wording around the page to make it more understandable
+<h4>&#x2022; Colors on the page have been changed to be a darker theme to be easier on the eyes</h4>
+<h4>&#x2022; Changed wording around the page to make it more understandable</h4>
 
 This was built using HTML, Javascript and love.
 
