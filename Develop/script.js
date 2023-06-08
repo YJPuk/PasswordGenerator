@@ -69,7 +69,7 @@ function generatePassword() {
       input.push(symbolsKeys[i]);
     }
     console.log(input)
-  }
+  } 
 
   //If the user does not select anything, the alert below appears asking them to choose at least 1
   if (uppercaseConfirm === false && numericConfirm === false && lowercaseConfirm === false && symbolsConfirm === false) {
@@ -77,6 +77,7 @@ function generatePassword() {
     return;
   }
   
+  //
   var randomPassword = ""
 
   //Additional to ensure the passwordLength is an integer not a string
