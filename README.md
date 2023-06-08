@@ -9,16 +9,16 @@ Screenshot of page:
 
 Description
 
-I modified the starter code to ensure that it includes the features listed below. These features match the Acceptance Criteria listed in the task below.
+As an employee I'm trying to create a password generator so I can protect sensitive data. This is a simple solution. I modified the starter code to ensure that it includes the features listed below. These features match the Acceptance Criteria listed in the task below. 
 
 The password generator page includes
-<h3>&#x2022; An existing page where the starter code was modified</h3>
-<h3>&#x2022; Clicking the button generates a password</h3>
-<h3>&#x2022; You can select criteria for the password through prompts</h3>
-<h3>&#x2022; Ability to make a password length of at least 8 characters and no more than 128 characters</h3>
-<h3>&#x2022; Criteria prompts for password include confirmations whether or not to include lowercase, uppercase, numeric, and/or special characters</h3>
-<h3>&#x2022; Upon completing all prompts a password is generated matching selected criteria in prompts</h3>
-<h3>&#x2022; This password is displayed in an alert</h3>
+&#x2022; An existing page where the starter code was modified
+&#x2022; Clicking the button generates a password
+&#x2022; You can select criteria for the password through prompts
+&#x2022; Ability to make a password length of at least 8 characters and no more than 128 characters
+&#x2022; Criteria prompts for password include confirmations whether or not to include lowercase, uppercase, numeric, and/or special characters I chose to with confirm instead of window.prompts as it would be easier for the user to simply click to select than keying in Y/N
+&#x2022; Upon completing all prompts a password is generated matching selected criteria in prompts
+&#x2022; This password is displayed in an alert
 
 This was built using HTML, Javascript and love.
 
