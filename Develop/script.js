@@ -28,7 +28,7 @@ function generatePassword() {
   //Included isNaN if user does not key in a numerical value
 
   if (passwordLength < 8 || passwordLength > 128 || isNaN(passwordLength)) {
-    alert("Your password must be between 8 and 128 characters please choose again");
+    alert("Your password must be a number between 8 and 128 characters please choose again");
     var passwordLength = prompt("Invalid Password Length, Please choose a length between 8-128 characters");
     return
   }
